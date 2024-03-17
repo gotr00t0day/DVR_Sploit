@@ -5,7 +5,7 @@ Simple python3 script to automate CVE-2018-9995
 
 Requirements: pip install -r requirements.txt
 
-##USAGE
+## USAGE
 
 ```bash
 
